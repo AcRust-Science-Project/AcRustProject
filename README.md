@@ -1,6 +1,6 @@
 # AcRustProject
 
-Rust実装によるGPGPUフレームワーク「Accel」を基盤とした、他の言語に依存しない、高速化された基幹的数理科学ライブラリ群
+Rust実装によるGPGPUフレームワーク「[Accel](https://github.com/termoshtt/accel)」を基盤とした、他の言語に依存しない、高速化された基幹的数理科学ライブラリ群
 
 ## 諸言語ラッパーライブラリ群
 
